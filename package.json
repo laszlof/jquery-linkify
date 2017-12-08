@@ -1,15 +1,15 @@
 {
   "name": "jquery-linkify",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "jQuery plugin to enable clicking on URL and hashtag",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/laszlof/jquery-linkify.git"
+    "url": "git+https://github.com/nocworx/jquery-linkify.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/laszlof/jquery-linkify/issues"
+    "url": "https://github.com/nocworx/jquery-linkify/issues"
   },
-  "homepage": "https://github.com/laszlof/jquery-linkify"
+  "homepage": "https://github.com/nocworx/jquery-linkify"
 }
